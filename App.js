@@ -15,8 +15,10 @@ root.render(parent);
  *      <div id = "c1">
  *          <h1>H1 tag from c1></h1>
  *          <h2>H2 tag from c1></h2>
+ *          <h3>H3 tag from c1></h3>
  *      </div>
  * </div>
+ * 
  * 
  * 
  * 
